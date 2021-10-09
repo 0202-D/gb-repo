@@ -25,12 +25,6 @@ public class MyChatWindow extends JFrame {
         });
 
 
-
-
-
-
-
-
         setVisible(true);
 }
 
@@ -38,3 +32,9 @@ public class MyChatWindow extends JFrame {
       new  MyChatWindow();
     }
 }
+
+
+
+
+
+
